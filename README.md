@@ -26,7 +26,7 @@
 ### 강의 자료 Download:  https://zrr.kr/mcd5
 
 `````
-Issue 현황 분석
+### Issue 현황 분석
 
 1 https://a16z.com/how-are-consumers-using-generative-ai/
 ![image](https://github.com/JSJeong-me/2023_Cloud_Technology-Market/assets/54794815/6912f003-3129-423c-94d0-209a085ea39f)
@@ -36,5 +36,6 @@ Issue 현황 분석
 
 3 https://gptforwork.com/tools/openai-api-and-other-llm-apis-response-time-tracker
 ![image](https://github.com/JSJeong-me/2023_Cloud_Technology-Market/assets/54794815/7f72497f-60e2-4f62-a9ad-12b905c435ff)
+
 `````
 
