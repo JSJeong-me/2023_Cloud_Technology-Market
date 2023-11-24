@@ -24,3 +24,17 @@
 현재, 클라우드 컴퓨팅은 다양한 산업에서 중요한 역할을 하고 있으며, 비용 절감, 높은 접근성, 확장성 등을 제공합니다. 미래에는 인공지능, 머신 러닝, IoT와 같은 첨단 기술과의 통합으로 더욱 발전할 것으로 예상됩니다. 또한, 클라우드 보안과 규정 준수 문제에 대한 해결책이 중요한 연구 분야가 될 것입니다.
 
 ### 강의 자료 Download:  https://zrr.kr/mcd5
+
+`````
+Issue 현황 분석
+
+1 https://a16z.com/how-are-consumers-using-generative-ai/
+![image](https://github.com/JSJeong-me/2023_Cloud_Technology-Market/assets/54794815/6912f003-3129-423c-94d0-209a085ea39f)
+
+2 https://status.openai.com/
+![image](https://github.com/JSJeong-me/2023_Cloud_Technology-Market/assets/54794815/d553aa73-1484-4f52-af09-92d3ae21b4e6)
+
+3 https://gptforwork.com/tools/openai-api-and-other-llm-apis-response-time-tracker
+![image](https://github.com/JSJeong-me/2023_Cloud_Technology-Market/assets/54794815/7f72497f-60e2-4f62-a9ad-12b905c435ff)
+`````
+
