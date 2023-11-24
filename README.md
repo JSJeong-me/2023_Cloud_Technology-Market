@@ -1,5 +1,5 @@
-# 2023_Cloud_Technology-Market
-2023 Cloud Technology &amp; Market Trends
+# 2023 Cloud Technology &amp; Market Trends
+
 
 
 # Cloud Computing이란?
