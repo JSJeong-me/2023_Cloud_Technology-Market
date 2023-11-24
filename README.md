@@ -25,7 +25,7 @@
 
 ### 강의 자료 Download:  https://zrr.kr/mcd5
 
-`````
+
 ### Issue 현황 분석
 
 1 [Top 50 GenAI Web Product](https://a16z.com/how-are-consumers-using-generative-ai/)
@@ -37,5 +37,4 @@
 3 [OpenAI Response Time Tracker]https://gptforwork.com/tools/openai-api-and-other-llm-apis-response-time-tracker
 
 
-`````
 
