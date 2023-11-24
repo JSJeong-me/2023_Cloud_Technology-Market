@@ -28,13 +28,13 @@
 `````
 ### Issue 현황 분석
 
-1 https://a16z.com/how-are-consumers-using-generative-ai/
+1 [Top 50 GenAI Web Product](https://a16z.com/how-are-consumers-using-generative-ai/)
 
 
-2 https://status.openai.com/
+2 [OpenAI - Traffic 분석]https://status.openai.com/
 
 
-3 https://gptforwork.com/tools/openai-api-and-other-llm-apis-response-time-tracker
+3 [OpenAI Response Time Tracker]https://gptforwork.com/tools/openai-api-and-other-llm-apis-response-time-tracker
 
 
 `````
