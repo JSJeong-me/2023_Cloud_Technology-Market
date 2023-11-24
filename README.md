@@ -31,7 +31,7 @@
 1 [Top 50 GenAI Web Product](https://a16z.com/how-are-consumers-using-generative-ai/)
 
 
-2 [OpenAI - Traffic 분석](https://status.openai.com/uptime#)
+2 [OpenAI - Traffic 분석]  https://status.openai.com/
 
 
 3 [OpenAI Response Time Tracker](https://gptforwork.com/tools/openai-api-and-other-llm-apis-response-time-tracker)
